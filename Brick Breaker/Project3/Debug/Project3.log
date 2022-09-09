@@ -1,0 +1,74 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(34,41): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(40,41): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(47,41): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(53,41): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(169,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(195,43): warning C4305: 'argument': truncation from 'int' to 'sf::Uint8'
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(195,37): warning C4309: 'argument': truncation of constant value
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(206,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(206,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(213,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(213,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(220,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(220,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(235,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(412,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(412,28): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(483,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(483,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(498,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(498,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(604,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(659,41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(661,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(662,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(677,42): warning C4305: 'argument': truncation from 'int' to 'sf::Uint8'
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(677,36): warning C4309: 'argument': truncation of constant value
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(683,42): warning C4305: 'argument': truncation from 'int' to 'sf::Uint8'
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(683,36): warning C4309: 'argument': truncation of constant value
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(722,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(722,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(743,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(743,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(763,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(763,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(782,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(782,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(801,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(801,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(820,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(820,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(839,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(839,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(858,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(858,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(877,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(877,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Said\source\repos\ss\Project3\main.cpp(229,8): warning C4101: 'x': unreferenced local variable
+  Project3.vcxproj -> C:\Users\Nada Said\source\repos\ss\Debug\ss.exe
