@@ -1,8 +1,9 @@
 
 <h1 align="center"> Brick Breaker Game  </h1>
-###  It's 2 levels . 
+<h4 >  It's 2 levels . <h4>
 
-
+<br>
+  <br>
 
 
 <div align="center"><img src="https://user-images.githubusercontent.com/92337927/189401463-91a4d97e-40b3-498d-a719-4fc04029a671.png"  width="700px" ></div>
