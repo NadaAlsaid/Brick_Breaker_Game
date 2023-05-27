@@ -1,6 +1,6 @@
 
 <h1 align="center"> Brick Breaker Game  </h1>
-<h4 >  It's 2 levels . <h4>
+ It's my first project in Level 1 . It's 2 levels .
 
 <br>
   <br>
