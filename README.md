@@ -22,6 +22,6 @@
 - <a href="https://github.com/Nada-Abdallah">Nada Abdallah</a><br>
 - Nesma Farid
 - Alaa Salah
-<!-- - Salah Mohamed
-- Shady 
--->
+- Salah Mohamed
+- Shady Ibrahim
+
