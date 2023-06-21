@@ -1,6 +1,6 @@
 
 <h1 align="center"> Brick Breaker Game  </h1>
- It's my first project in Level 1 .It's 2 levels .
+ It's our first project in Level 1 .It's 2 levels with our degin and assets .
 
 <br>
   <br>
